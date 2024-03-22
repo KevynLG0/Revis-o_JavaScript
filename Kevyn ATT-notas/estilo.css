@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+
+}
+div{
+    margin-top: 50px;
+    margin-left: 540px;
+}
+table {
+    border-collapse: collapse;
+    height: 500px;
+    width: 500px;
+  }
+
+  th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  th {
+    background-color: #0cd2ecd3;
+  }

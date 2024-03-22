@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: green;
+    background-image: url(https://static.significados.com.br/foto/paisagem-natural-og.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#login{
+    background-color: white;
+    border-radius: 100px;
+    height: 650px;
+    width: 500px;
+    border-style: solid;
+    border-color: black;
+    margin: 0 auto;
+    
+}
+
+#foto{
+    margin-top: 50px;
+    border-radius: 80px;
+}
+
+#inputs{
+    margin-bottom: 70px;
+}
+
